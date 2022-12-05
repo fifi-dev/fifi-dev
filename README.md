@@ -19,15 +19,3 @@
 
 <br><br>
   
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> *Languages*  
-<picture> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fifi-dev&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" ></picture>
-
-<br>
-
-- 👉 Langages : HTML, CSS, Sass, Javascript, Php, Mysql
-- 👉 Librairies : JQuery, React
-- 👉 Frameworks : Vue.js, Alpine.js, Laravel, Symfony, Django
-- 👉 Plateforms :  CMS : Node.js, Wordpress, Wix
-
-<br><br>

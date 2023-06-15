@@ -11,7 +11,7 @@
 <br>
 
 - 💻 Creative Developer 
-- 💼 Open to work remotly or in Paris
+- 💼 Open to work in Paris
 - 👀 I’m interested in Web design and web development projects
 - 🌱 I’m currently learning web and mobile engineering
 - 🔗 My website [link](http://www.fidelinebazana.com/)
